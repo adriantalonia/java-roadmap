@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-advanced/java-advanced.iml" filepath="$PROJECT_DIR$/java-advanced/java-advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-intermediate/java-intermediate.iml" filepath="$PROJECT_DIR$/java-intermediate/java-intermediate.iml" />
+    </modules>
+  </component>
+</project>
