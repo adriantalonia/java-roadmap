@@ -1,4 +1,4 @@
-package com.basic.controlstatements.jump;
+package com.basic.controlstatements.loop;
 
 public class WhileLoop {
 
