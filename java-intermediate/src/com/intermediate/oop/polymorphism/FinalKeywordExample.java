@@ -1,6 +1,6 @@
 package com.intermediate.oop.polymorphism;
 
-final class A1 {
+/*final class A1 {
 
     final int count;
 
@@ -40,4 +40,4 @@ public class FinalKeywordExample {
         B1 b1 = new B1();
         b1.run(); // final method is inherited but you cannot override it
     }
-}
+}*/
